@@ -1,0 +1,4 @@
+repository "AlftaTeam@kiliclarerdem1@cloud"
+  path "/"
+    br "/main"
+    co "/main"
